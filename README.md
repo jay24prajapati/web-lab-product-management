@@ -63,7 +63,7 @@ Below are the versions of the tools and dependencies used in this project:
 - **npm**: 10.9.2
 - **TypeScript**: 5.8.3
 - **Angular**: 19.2.12
-  - Includes: common, compiler, compiler-cli, core, forms, platform-browser, platform-browser-dynamic, router
+
 - **Dependencies**:
   - @angular-devkit/architect: 0.1902.13
   - @angular-devkit/build-angular: 19.2.13
