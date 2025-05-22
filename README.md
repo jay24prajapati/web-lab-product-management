@@ -1,50 +1,60 @@
-# Tutorial1
+# Tutorial 1: Angular Environment Setup and Deployment
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.13.
+This project is the outcome of Tutorial 1 (CSCI5709 - Adv. Topics in Web Development), where I set up an Angular development environment, explored the Angular project folder structure, built and run a simple "Hello World" application, pushed it to GitHub, and deployed it to Netlify. This README reflects these activities and is customized for submission as part of the class activity.
 
-## Development server
+## Project Overview
 
-To start a local development server, run:
+In this tutorial, I:
+
+- Installed and configured the Angular CLI.
+- Learned the basic folder structure of an Angular project.
+- Created and run a "Hello World" application locally.
+- Pushed the project to a GitHub repository.
+- Deployed the application to Netlify for live access.
+
+## Development Server
+
+To run the application locally, use the following command:
 
 ```bash
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Navigate to `http://localhost:4200/` in your browser. The app will automatically reload when you make changes to the source files.
 
-## Code scaffolding
+## Code Scaffolding
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+The Angular CLI provides tools to generate code efficiently. To create a new component, run:
 
 ```bash
 ng generate component component-name
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+For a list of available schematics (e.g., components, directives, pipes), use:
 
 ```bash
 ng generate --help
 ```
 
-## Building
+## Building the Project
 
-To build the project run:
+To build the project for production, run:
 
 ```bash
 ng build
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+The build artifacts will be stored in the `dist/` directory, optimized for deployment.
 
-## Running unit tests
+## Running Unit Tests
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+Execute unit tests using Karma with:
 
 ```bash
 ng test
 ```
 
-## Running end-to-end tests
+## Running End-to-End Tests
 
 For end-to-end (e2e) testing, run:
 
@@ -52,11 +62,20 @@ For end-to-end (e2e) testing, run:
 ng e2e
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+## Deployment
+
+The "Hello World" application has been deployed to Netlify. You can view it live at:  
+[https://jay-product-management.netlify.app/](https://jay-product-management.netlify.app/)
+
+### Deployment Steps:
+
+1. Pushed the project to a GitHub repository.
+2. Linked the repository to Netlify via "Import from Git."
+3. Selected the main branch and deployed using the unique project name.
 
 ## Project Versions
 
-Below are the versions of the tools and dependencies used in this project:
+The tools and dependencies used in this project are:
 
 - **Angular CLI**: 19.2.13
 - **Node**: 22.16.0
@@ -77,4 +96,4 @@ Below are the versions of the tools and dependencies used in this project:
 
 ## Additional Resources
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+For more details on Angular CLI commands, refer to the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli).
