@@ -54,6 +54,27 @@ ng e2e
 
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
+## Project Versions
+
+Below are the versions of the tools and dependencies used in this project:
+
+- **Angular CLI**: 19.2.13
+- **Node**: 22.16.0
+- **npm**: 10.9.2
+- **TypeScript**: 5.8.3
+- **Angular**: 19.2.12
+  - Includes: common, compiler, compiler-cli, core, forms, platform-browser, platform-browser-dynamic, router
+- **Dependencies**:
+  - @angular-devkit/architect: 0.1902.13
+  - @angular-devkit/build-angular: 19.2.13
+  - @angular-devkit/core: 19.2.13
+  - @angular-devkit/schematics: 19.2.13
+  - @angular/cli: 19.2.13
+  - @schematics/angular: 19.2.13
+  - rxjs: 7.8.2
+  - typescript: 5.7.3
+  - zone.js: 0.15.0
+
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
