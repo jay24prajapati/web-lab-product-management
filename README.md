@@ -1,16 +1,15 @@
-# Tutorial 1: Angular Environment Setup and Deployment
+# Angular Tutorials Repository
 
-This project is the outcome of Tutorial 1 (CSCI5709 - Adv. Topics in Web Development), where I set up an Angular development environment, explored the Angular project folder structure, built and run a simple "Hello World" application, pushed it to GitHub, and deployed it to Netlify. This README reflects these activities and is customized for submission as part of the class activity.
+This repository has all tutorials activity for CSCI5709 - Advanced Topics in Web Development. It includes all the product-management project tutorial activities completed as part of the course, covering topics such as Angular environment setup, project structure exploration, application development, GitHub integration, and deployment to platforms like Netlify.
 
 ## Project Overview
 
-In this tutorial, I:
+All Tutorials Activities:
 
-- Installed and configured the Angular CLI.
-- Learned the basic folder structure of an Angular project.
-- Created and run a "Hello World" application locally.
-- Pushed the project to a GitHub repository.
-- Deployed the application to Netlify for live access.
+- Tutorial 1 - Environment Setup (Angular + GitHub)
+- Tutorial 2 - Angular SPA – Routing, State Management & Lifecycle Hooks
+- Tutorial 3 - Backend Introduction & API Integration (backend repo link: [https://github.com/jay24prajapati/web-lab-product-mngt-backend/](https://github.com/jay24prajapati/web-lab-product-mngt-backend/))
+- Tutorial 4 - Angular Forms, Validation & API Integration
 
 ## Development Server
 
