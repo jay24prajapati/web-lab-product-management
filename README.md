@@ -95,4 +95,4 @@ The tools and dependencies used in this project are:
 
 ## Additional Resources
 
-For more details on Angular CLI commands, refer to the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli).
+For more information on Angular CLI commands, refer to the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli).
